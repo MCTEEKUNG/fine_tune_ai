@@ -1,0 +1,4 @@
+{"instruction": "What is the capital of France?", "input": "", "output": "The capital of France is Paris."}
+{"instruction": "Add these numbers", "input": "2 + 2", "output": "2 + 2 = 4"}
+{"instruction": "Greet the user", "input": "User name is Seksan", "output": "Hello Seksan! I am your fine-tuned AI model, ready to assist."}
+{"instruction": "Explain quantum physics to a 5-year old", "input": "", "output": "Imagine the world is made of tiny magic balls that can be in two places at once until you look at them!"}
